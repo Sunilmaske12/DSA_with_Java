@@ -1,4 +1,4 @@
-package two_D_Sorting;
+package two_D_Array;
 
 public class Sorting {
 
